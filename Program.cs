@@ -28,7 +28,7 @@
                 }
             }
                     Console.WriteLine("67'den küçük olan sayıların 67'den farklarının toplamı: "+ toplam);
-                    Console.WriteLine("67'den küçük olan sayıların 67'den farklarının toplamı: "+ toplam2);
+                    Console.WriteLine("67'den büyük olan sayıların 67'den farklarının mutlak karelerinin toplamı: "+ toplam2);
                 
                 
 
